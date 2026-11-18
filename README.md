@@ -1,12 +1,22 @@
 # netBRS-ad
 Active Directory Bloodhound Collector. 
 
+# Installation
+```bash
+git clone https://github.com/0xmrsecurity/netBRS-ad
+chmod +x netBRS-ad.sh
+
+./netBRS-ad.sh --help
+```
+
 ### We use multiple collectors in single bash script 
 - souphound
 - rusthound
 - bloodyad
 - bloodhound-python
 - net rpc
+
+
 
 ## Required Tool Installation
 ```bash
